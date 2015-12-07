@@ -1,0 +1,65 @@
+li {
+	list-style-type: none;
+}
+
+.col-xs-4 > h4 {
+	padding-left: 35px;
+	margin-bottom: 5px;
+}
+
+
+.panel-body>div>p {line-height: 150%;}
+.panel-body>p{
+	margin: 3px
+}
+div.panel-heading>p {
+	font-size: 12px;
+	margin-bottom: 0px;
+}
+
+.panel-body>h4{
+	margin-top: 7px;
+	margin-bottom: 0px;
+}
+
+
+.panel-body {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+#summary {
+	padding-top: 5px;
+}
+
+h4 {
+	font-size: 14px;
+}
+
+h1,li {
+	font-weight: bold;
+	
+}
+
+.page-header>*>*>ul {
+	margin-top: 10px;
+	
+}
+
+.page-header>*>*>ul>li {
+	font-size: 14px;
+}
+
+p, li {
+	font-size: 12px;
+}
+
+.panel-default {
+	margin-bottom: 10px;
+}
+
+.panel-heading{
+	padding: 5px;
+	
+}
+
